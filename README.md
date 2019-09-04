@@ -1,2 +1,3 @@
 # budapest.py
- budapest.py workshops
+
+ This repository contains my works from budapest.py workshops. 
